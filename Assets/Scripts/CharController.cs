@@ -5,11 +5,17 @@ public class CharController : MonoBehaviour {
 
 	public Transform currentPost, startPost;
 	public bool draggingLine;
-	
+	public Animator anim;
+	private bool moving;
+
 	// Update is called once per frame
 	void FixedUpdate () {
 		GetComponent<Rigidbody2D>().velocity = new Vector3 (Input.GetAxis ("Horizontal"), Input.GetAxis ("Vertical"), 0) * 2.5f;
-
+		if (GetComponent<Rigidbody2D> ().velocity == new Vector2 (0, 0))
+			moving = false;
+		else
+			moving = true;
+		anim.SetBool ("moving", moving);
 	}
 
 	void Update () {

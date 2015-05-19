@@ -1,0 +1,209 @@
+fileFormatVersion: 2
+guid: b763122a2b508394798157c3f1e9df78
+timeCreated: 1432030708
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: playerSpriteSheet_0
+    21300002: playerSpriteSheet_1
+    21300004: playerSpriteSheet_2
+    21300006: playerSpriteSheet_3
+    21300008: playerSpriteSheet_4
+    21300010: playerSpriteSheet_5
+    21300012: playerSpriteSheet_6
+    21300014: playerSpriteSheet_7
+    21300016: playerSpriteSheet_8
+    21300018: playerSpriteSheet_9
+    21300020: playerSpriteSheet_10
+    21300022: playerSpriteSheet_11
+    21300024: playerSpriteSheet_12
+    21300026: playerSpriteSheet_13
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: playerSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 429
+        width: 143
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playerSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 429
+        width: 143
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playerSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 429
+        width: 143
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playerSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 429
+        width: 143
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playerSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 286
+        width: 143
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playerSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 286
+        width: 143
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playerSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 286
+        width: 143
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playerSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 143
+        width: 143
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playerSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 143
+        width: 143
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playerSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 143
+        width: 143
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playerSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 143
+        width: 143
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playerSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 143
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playerSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 143
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playerSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 0
+        width: 143
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
